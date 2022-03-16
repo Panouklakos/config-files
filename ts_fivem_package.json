@@ -1,0 +1,17 @@
+{
+    "name": "base",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@citizenfx/client": "^2.0.5234-1",
+        "eslint": "^8.7.0",
+        "eslint-loader": "^4.0.2",
+        "remove-files-webpack-plugin": "^1.5.0",
+        "terser-webpack-plugin": "^5.3.0",
+        "ts-loader": "^9.2.6",
+        "typescript": "^4.5.4",
+        "webpack": "^5.66.0",
+        "webpack-node-externals": "^3.0.0"
+    }
+}
